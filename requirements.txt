@@ -1,0 +1,15 @@
+asyncio
+websockets
+aiohttp
+requests
+psutil
+gputil
+modal
+pandas==2.1.4
+numpy==1.24.4
+plotly==5.17.0
+torch      # only required if you plan to run LocalLLMAgent
+transformers
+gradio
+numpy
+pandas
